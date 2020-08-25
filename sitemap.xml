@@ -2,26 +2,125 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://laboratoriodelruido.co/index.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laboratoriodelruido.co/phone/index.html"/>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/rt253x200.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/manzana.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/flecha1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/numeral.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/bombillo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/moleculas.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/flecha4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/fondogrande.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/face.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/piedepagina.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/techogif.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/fondomenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/radiotechotibamenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/textolab.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/labmariposa2.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/videomenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/radiomiseriamenu.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/serviciomenu.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://laboratoriodelruido.co/radio-techotiba.html</loc>
+    <lastmod>2020-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laboratoriodelruido.co/phone/radio-techotiba.html"/>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/labmariposa.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/telefono.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/rm230x173.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/fondogrande.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/kafuche.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/face.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/piedepagina.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/techogif.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/felcha2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/rm79x59.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/video66x70.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/rt.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://laboratoriodelruido.co/radio-miseria.html</loc>
+    <lastmod>2020-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laboratoriodelruido.co/phone/radio-miseria.html"/>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/labmariposa.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/fondo%20ruido.jpg</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/telefono.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/libro.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/flecha1.png</image:loc>
@@ -30,46 +129,31 @@
       <image:loc>http://laboratoriodelruido.co/images/bombillo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/flecha4.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://laboratoriodelruido.co/images/moleculas.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/botella1.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/flecha4.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/libro.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/fondogrande.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/felcha3.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/face.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/video165x175.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/youtube.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/emc.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/instagram.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/manzana.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/piedepagina.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/numeral.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/techogif.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/onda.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://laboratoriodelruido.co/radio-miseria.html</loc>
-    <lastmod>2020-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/telefono.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/labmariposa.gif</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/felcha2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/rm.png</image:loc>
@@ -78,25 +162,7 @@
       <image:loc>http://laboratoriodelruido.co/images/loguito.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/fondo%20ruido.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/flecha1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/bombillo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/flecha4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/moleculas.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://laboratoriodelruido.co/images/botella1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/libro.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/felcha3.png</image:loc>
@@ -104,83 +170,69 @@
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/emc.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/felcha2.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://laboratoriodelruido.co/radio-techotiba.html</loc>
-    <lastmod>2020-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/telefono.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/labmariposa.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/rt.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/fondo%20ruido.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/video66x70.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/rm79x59.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/felcha2.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://laboratoriodelruido.co/laboratorio-visual.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/telefono.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/labmariposa.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/video.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/fondo%20ruido.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/bombillo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/flecha4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/moleculas.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/botella1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/libro.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/felcha3.png</image:loc>
-    </image:image>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laboratoriodelruido.co/phone/laboratorio-visual.html"/>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/manzana.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/numeral.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/onda.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/labmariposa.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/telefono.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/libro.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/numeral.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/bombillo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/moleculas.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/flecha4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/fondogrande.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/face.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/piedepagina.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/techogif.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://laboratoriodelruido.co/images/felcha2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/botella1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/felcha3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/video.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/telelab.png</image:loc>
@@ -188,20 +240,36 @@
   </url>
   <url>
     <loc>http://laboratoriodelruido.co/ruidolab.html</loc>
-    <lastmod>2020-08-19</lastmod>
+    <lastmod>2020-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://laboratoriodelruido.co/phone/ruidolab.html"/>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/telefono.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/onda.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/labmariposa.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/fondo%20ruido.jpg</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/telefono.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://laboratoriodelruido.co/images/onda.png</image:loc>
+      <image:loc>http://laboratoriodelruido.co/images/fondogrande.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/face.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/youtube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/instagram.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/piedepagina.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://laboratoriodelruido.co/images/techogif.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/felcha2.png</image:loc>
@@ -218,11 +286,5 @@
     <image:image>
       <image:loc>http://laboratoriodelruido.co/images/lab3.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://laboratoriodelruido.co/assets/infografia-mesa.pdf</loc>
-    <lastmod>2020-08-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>

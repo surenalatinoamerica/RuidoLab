@@ -1,61 +1,191 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laboratoriodelruido.co" resolutions="1x" timestamp="1597874485489">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="laboratoriodelruido.co" resolutions="1x" timestamp="1598319810222">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="4148229231" ref="radio-techotiba:radio-miseria:index:ruidolab:laboratorio-visual"/>
-    <file name="radio-techotiba.css" crc="232222519" ref="radio-techotiba"/>
-    <file name="radio-miseria.css" crc="501299829" ref="radio-miseria"/>
-    <file name="index.css" crc="4038599219" ref="index"/>
-    <file name="ruidolab.css" crc="494431971" ref="ruidolab"/>
-    <file name="laboratorio-visual.css" crc="4189349155" ref="laboratorio-visual"/>
-  </folder>
-  <folder name="assets">
-    <file name="infografia-mesa.pdf" crc="4093422203" seo="true" mt="1597803981000"/>
+    <file name="master_a-p_g_-maestra.css" crc="218178919" ref="laboratorio-visual:radio-miseria:ruidolab:radio-techotiba:index"/>
+    <file name="laboratorio-visual.css" crc="4025819811" ref="laboratorio-visual"/>
+    <file name="radio-miseria.css" crc="4045324350" ref="radio-miseria"/>
+    <file name="ruidolab.css" crc="454533947" ref="ruidolab"/>
+    <file name="radio-techotiba.css" crc="125537845" ref="radio-techotiba"/>
+    <file name="index.css" crc="40324076" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
-    <file name="museutils.js" crc="3939489907" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
-    <file name="whatinput.js" crc="86476730" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
-    <file name="museconfig.js" crc="128606099" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
-    <file name="require.js" crc="4177726516" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>radio-techotiba:phone>radio-miseria:phone>laboratorio-visual:phone>ruidolab:index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>radio-techotiba:phone>radio-miseria:phone>laboratorio-visual:phone>ruidolab:index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>radio-techotiba:phone>radio-miseria:phone>laboratorio-visual:phone>ruidolab:index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:phone>radio-techotiba:phone>radio-miseria:phone>laboratorio-visual:phone>ruidolab:index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>radio-techotiba:phone>radio-miseria:phone>laboratorio-visual:phone>ruidolab:index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>radio-techotiba:phone>radio-miseria:phone>laboratorio-visual:phone>ruidolab:index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="rt253x200.png" crc="271066327" seo="true" ref="index">
+    <file name="manzana.png" crc="62079977" seo="true" ref="phone>index:index:laboratorio-visual">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+    </file>
+    <file name="fondo ruido.jpg" crc="313460475" seo="true" ref="phone>index:phone>radio-techotiba:phone>radio-miseria:phone>laboratorio-visual:phone>ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="u1459-4.png" crc="283683381" ref="phone>index"/>
+    <file name="onda.png" crc="3883389885" seo="true" ref="phone>index:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+    </file>
+    <file name="labmariposa.gif" crc="3921365099" seo="true" ref="phone>index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="u1464-4.png" crc="81099676" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index"/>
+    <file name="rt89x71.png" crc="4176333673" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="telefono.png" crc="4032191871" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+    <file name="video82x87.png" crc="132000965" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telefono.png" crc="4186354852" seo="true" ref="phone>index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="rm94x71.png" crc="3910956189" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kafuche.png" crc="3797738550" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1489-4.png" crc="3798954856" ref="phone>index"/>
+    <file name="u1490-4.png" crc="4152237151" ref="phone>index"/>
+    <file name="u1520-4.png" crc="534806594" ref="phone>index"/>
+    <file name="u1521-4.png" crc="4241734439" ref="phone>index"/>
+    <file name="libro.png" crc="4083396358" seo="true" ref="phone>index:radio-miseria:laboratorio-visual">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="flecha1.png" crc="368700088" seo="true" ref="phone>index:index:radio-miseria">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-      <caption webpage="radio-techotiba" alt=""/>
-      <caption webpage="ruidolab" alt=""/>
-    </file>
-    <file name="rm230x173.png" crc="3947145077" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="kafuche.png" crc="362631956" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u414-4.png" crc="4220575082" ref="index"/>
-    <file name="u546-4.png" crc="112274807" ref="index"/>
-    <file name="u550-4.png" crc="506949827" ref="index"/>
-    <file name="u160-4.png" crc="231858381" ref="index"/>
-    <file name="labmariposa.gif" crc="3921365099" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
-      <caption webpage="index" alt=""/>
       <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="numeral.png" crc="217129456" seo="true" ref="phone>index:index:laboratorio-visual">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="laboratorio-visual" alt=""/>
-      <caption webpage="radio-techotiba" alt=""/>
+    </file>
+    <file name="bombillo.png" crc="4269802820" seo="true" ref="phone>index:index:radio-miseria:laboratorio-visual">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="moleculas.png" crc="151255013" seo="true" ref="phone>index:index:radio-miseria:laboratorio-visual">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="flecha4.png" crc="3762866388" seo="true" ref="phone>index:index:radio-miseria:laboratorio-visual">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="u1603-10.png" crc="3789987382" ref="phone>index"/>
+    <file name="fondogrande.png" crc="3869603873" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
       <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="face.png" crc="365759845" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="youtube.png" crc="477466959" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="instagram.png" crc="35227156" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="piedepagina.png" crc="324314008" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="techogif.gif" crc="337534773" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="index" alt=""/>
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
+      <caption webpage="radio-techotiba" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="fondomenu.png" crc="301802384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiotechotibamenu.png" crc="4145961529" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="textolab.png" crc="260814994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="labmariposa2.gif" crc="3921365099" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="videomenu.png" crc="3848790799" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiomiseriamenu.png" crc="448119070" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="serviciomenu.png" crc="292158515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="u453-4.png" crc="38541756" ref="radio-techotiba"/>
     <file name="u460-4.png" crc="479037604" ref="radio-techotiba"/>
-    <file name="rt.png" crc="1644158" seo="true" ref="radio-techotiba">
-      <caption webpage="radio-techotiba" alt=""/>
-    </file>
-    <file name="video.png" crc="77184340" seo="true" ref="laboratorio-visual">
+    <file name="felcha2.png" crc="108027862" seo="true" ref="radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
+      <caption webpage="radio-miseria" alt=""/>
+      <caption webpage="ruidolab" alt=""/>
       <caption webpage="radio-techotiba" alt=""/>
       <caption webpage="laboratorio-visual" alt=""/>
+    </file>
+    <file name="rm79x59.png" crc="521526499" seo="true" ref="radio-techotiba">
+      <caption webpage="radio-techotiba" alt=""/>
+    </file>
+    <file name="video66x70.png" crc="3875970432" seo="true" ref="radio-techotiba">
+      <caption webpage="radio-techotiba" alt=""/>
+    </file>
+    <file name="rt.png" crc="1644158" seo="true" ref="radio-techotiba">
+      <caption webpage="radio-techotiba" alt=""/>
     </file>
     <file name="rm.png" crc="4024916518" seo="true" ref="radio-miseria">
       <caption webpage="radio-miseria" alt=""/>
@@ -64,98 +194,22 @@
       <caption webpage="radio-miseria" alt=""/>
     </file>
     <file name="u519-4.png" crc="479037604" ref="radio-miseria"/>
+    <file name="botella1.png" crc="360778667" seo="true" ref="radio-miseria:laboratorio-visual">
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="felcha3.png" crc="3865334221" seo="true" ref="radio-miseria:laboratorio-visual">
+      <caption webpage="laboratorio-visual" alt=""/>
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
+    <file name="emc.png" crc="4078760422" seo="true" ref="radio-miseria">
+      <caption webpage="radio-miseria" alt=""/>
+    </file>
     <file name="u463-4.png" crc="479037604" ref="laboratorio-visual"/>
+    <file name="video.png" crc="77184340" seo="true" ref="laboratorio-visual">
+      <caption webpage="laboratorio-visual" alt=""/>
+    </file>
     <file name="u473-4.png" crc="4040759430" ref="laboratorio-visual"/>
-    <file name="fondo ruido.jpg" crc="536531435" seo="true" ref="index:radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-      <caption webpage="radio-techotiba" alt=""/>
-      <caption webpage="ruidolab" alt=""/>
-    </file>
-    <file name="flecha1.png" crc="368700088" seo="true" ref="index:radio-miseria">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-    </file>
-    <file name="bombillo.png" crc="4269802820" seo="true" ref="index:radio-miseria:laboratorio-visual">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="flecha4.png" crc="3762866388" seo="true" ref="index:radio-miseria:laboratorio-visual">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="moleculas.png" crc="151255013" seo="true" ref="index:radio-miseria:laboratorio-visual">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="botella1.png" crc="360778667" seo="true" ref="index:radio-miseria:laboratorio-visual">
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="libro.png" crc="4083396358" seo="true" ref="index:radio-miseria:laboratorio-visual">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="u1162-4.png" crc="4163476458" ref="index"/>
-    <file name="felcha3.png" crc="3865334221" seo="true" ref="index:radio-miseria:laboratorio-visual">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="video165x175.png" crc="4118413759" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="emc.png" crc="475461481" seo="true" ref="index:radio-miseria">
-      <caption webpage="index" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-    </file>
-    <file name="manzana.png" crc="62079977" seo="true" ref="index:laboratorio-visual">
-      <caption webpage="index" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="numeral.png" crc="217129456" seo="true" ref="index:laboratorio-visual">
-      <caption webpage="index" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="onda.png" crc="3883389885" seo="true" ref="index:laboratorio-visual:ruidolab">
-      <caption webpage="index" alt=""/>
-      <caption webpage="ruidolab" alt=""/>
-      <caption webpage="ruidolab" alt=""/>
-      <caption webpage="ruidolab" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-    </file>
-    <file name="u730-4.png" crc="3828819995" ref="index"/>
-    <file name="u727-10.png" crc="4235800413" ref="index"/>
-    <file name="video66x70.png" crc="3875970432" seo="true" ref="radio-techotiba">
-      <caption webpage="radio-techotiba" alt=""/>
-    </file>
-    <file name="rm79x59.png" crc="521526499" seo="true" ref="radio-techotiba">
-      <caption webpage="radio-techotiba" alt=""/>
-    </file>
-    <file name="felcha2.png" crc="108027862" seo="true" ref="radio-techotiba:radio-miseria:laboratorio-visual:ruidolab">
-      <caption webpage="ruidolab" alt=""/>
-      <caption webpage="radio-miseria" alt=""/>
-      <caption webpage="laboratorio-visual" alt=""/>
-      <caption webpage="radio-techotiba" alt=""/>
-    </file>
     <file name="telelab.png" crc="3871023104" seo="true" ref="laboratorio-visual">
       <caption webpage="laboratorio-visual" alt=""/>
     </file>
@@ -172,9 +226,24 @@
       <caption webpage="ruidolab" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="17624111" seo="true" mt="1597874008276" redirect="true"/>
-  <file name="radio-techotiba.html" crc="4160602477" seo="true" mt="1597873431422" redirect="true"/>
-  <file name="radio-miseria.html" crc="22473559" seo="true" mt="1597873780462" redirect="true"/>
-  <file name="laboratorio-visual.html" crc="410760929" seo="true" mt="1597873952033" redirect="true"/>
-  <file name="ruidolab.html" crc="3879165034" seo="true" mt="1597873411310" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="20486835" ref="phone>radio-techotiba:phone>laboratorio-visual:phone>index:phone>radio-miseria:phone>ruidolab"/>
+      <file name="radio-techotiba.css" crc="331780487" ref="phone>radio-techotiba"/>
+      <file name="laboratorio-visual.css" crc="331780487" ref="phone>laboratorio-visual"/>
+      <file name="index.css" crc="4221931601" ref="phone>index"/>
+      <file name="radio-miseria.css" crc="331780487" ref="phone>radio-miseria"/>
+      <file name="ruidolab.css" crc="331780487" ref="phone>ruidolab"/>
+    </folder>
+    <file name="index.html" crc="305587674" seo="true" mt="1597877054691" redirect="true"/>
+    <file name="radio-techotiba.html" crc="4039101239" seo="true" mt="1597876322496" redirect="true"/>
+    <file name="radio-miseria.html" crc="4267356976" seo="true" mt="1597876322496" redirect="true"/>
+    <file name="laboratorio-visual.html" crc="39277780" seo="true" mt="1597876322496" redirect="true"/>
+    <file name="ruidolab.html" crc="396621670" seo="true" mt="1597876322496" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="460368031" seo="true" mt="1598319746913" redirect="true"/>
+  <file name="radio-techotiba.html" crc="4123449379" seo="true" mt="1598319511971" redirect="true"/>
+  <file name="radio-miseria.html" crc="4100600862" seo="true" mt="1598319511971" redirect="true"/>
+  <file name="laboratorio-visual.html" crc="417862774" seo="true" mt="1598319511971" redirect="true"/>
+  <file name="ruidolab.html" crc="4017496719" seo="true" mt="1598319511971" redirect="true"/>
 </manifest>
